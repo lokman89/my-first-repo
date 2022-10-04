@@ -1,30 +1,25 @@
-# This is a large heading
+# Lokman GALAL
 
-## This is a smaller heading
+## married, two children
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### to small characters?
 
-- This is
-- an unordered
-- list
+**first**
+*second*
 
-1. This is
-2. an ordered
-3. list
+- one
+- two
+- three
 
-Here is `some code` in the middle of a sentence.
+`some code`
+
 
 ```
-This is
-a block
+block
 of code
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+refer to this [website](https://www.google.fr)
 
-nano README.md
+thank you!!
